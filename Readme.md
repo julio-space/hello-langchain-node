@@ -38,18 +38,18 @@ $ npm install
 
 | 파일명 | 예제 설명 |
 | --- | --- |
-| [01_setting/sample.js](https://github.com/julio-space/hello-langchain-py/blob/main/01_setting/sample.js) | OpenAI ChatCompletion Sample |
-| [02_model_io/language_models.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/language_models.js) | HumanMessage를 이용해 모델 호출 |
-| [02_model_io/language_models_ai_message.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/language_models_ai_message.js) | HumanMessage / AIMessage를 이용해 모델 호출 |
-| [02_model_io/language_models_system_message.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/language_models_system_message.js) | HumanMessage / SystemMessage를 이용해 모델 호출 |
-| [02_model_io/prompt.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/prompt.js) | PromptTemplate 기본 생성 |
-| [02_model_io/prompt_and_language_model.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/prompt_and_language_model.js) | LLM과 PromptTemplate의 결합 |
-| [02_model_io/prompt_template_from_template_save_sample.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/prompt_template_from_template_save_sample.js) | PromptTemplate을 JSON으로 출력 |
-| [02_model_io/list_output_parser.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/list_output_parser.js) | 목록 형식으로 결과 받기 |
-| [02_model_io/model_io_llm.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/model_io_llm.js) | LLM으로 다음 문장 예측 |
-| [02_model_io/chat_model_cache.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/chat_model_cache.js) | Caching |
-| [02_model_io/chat_model_streaming.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/chat_model_streaming.js) | 결과를 스트리밍 |
-| [02_model_io/model_io_few_shot.js](https://github.com/julio-space/hello-langchain-py/blob/main/02_model_io/model_io_few_shot.js) | FewShotPromptTemplate |
+| [01_setting/sample.js](https://github.com/julio-space/hello-langchain-node/blob/main/01_setting/sample.js) | OpenAI ChatCompletion Sample |
+| [02_model_io/language_models.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/language_models.js) | HumanMessage를 이용해 모델 호출 |
+| [02_model_io/language_models_ai_message.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/language_models_ai_message.js) | HumanMessage / AIMessage를 이용해 모델 호출 |
+| [02_model_io/language_models_system_message.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/language_models_system_message.js) | HumanMessage / SystemMessage를 이용해 모델 호출 |
+| [02_model_io/prompt.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/prompt.js) | PromptTemplate 기본 생성 |
+| [02_model_io/prompt_and_language_model.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/prompt_and_language_model.js) | LLM과 PromptTemplate의 결합 |
+| [02_model_io/prompt_template_from_template_save_sample.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/prompt_template_from_template_save_sample.js) | PromptTemplate을 JSON으로 출력 |
+| [02_model_io/list_output_parser.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/list_output_parser.js) | 목록 형식으로 결과 받기 |
+| [02_model_io/model_io_llm.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/model_io_llm.js) | LLM으로 다음 문장 예측 |
+| [02_model_io/chat_model_cache.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/chat_model_cache.js) | Caching |
+| [02_model_io/chat_model_streaming.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/chat_model_streaming.js) | 결과를 스트리밍 |
+| [02_model_io/model_io_few_shot.js](https://github.com/julio-space/hello-langchain-node/blob/main/02_model_io/model_io_few_shot.js) | FewShotPromptTemplate |
 
 ## III. Retrieval
 
